@@ -1,0 +1,18 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+}
+
+a {
+  --at-apply: text-blue-600 hover: text-blue-700 dark: text-blue-300 underline-offset-4 dark: hover: text-blue-400 underline underline-offset-4;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+}
